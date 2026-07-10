@@ -2,7 +2,7 @@
 <p align="center"><strong>IT Lead | Systems Builder</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&center=true&vCenter=true&width=700&lines=Building+internal+systems+for+real+business+operations;Designing+workflow-driven+platforms+with+hands-on+execution;Leading+teams+while+staying+close+to+the+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&center=true&vCenter=true&width=760&lines=Building+internal+systems+for+real+business+operations;Leading+workflow-driven+platforms+with+hands-on+execution;Connecting+engineering%2C+operations%2C+and+delivery" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -88,8 +88,8 @@ I keep this section intentionally high level to respect private project boundari
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Septi-DmsDev&show_icons=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Septi-DmsDev&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Septi-DmsDev&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub stats for Septi-DmsDev" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Septi-DmsDev&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages for Septi-DmsDev" />
 </p>
 
 ---
@@ -110,4 +110,4 @@ I keep this section intentionally high level to respect private project boundari
 
 Open to collaboration on internal systems, operations platforms, and business-critical software.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=120&section=footer&fontColor=ffffff&fontSize=15&fontAlignY=75&desc=Septian%20Dimas%20Prasetya&descSize=13&descAlignY=90&descAlign=50" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=120&section=footer&fontColor=ffffff&fontSize=15&fontAlignY=72&text=%C2%A9%202026%20Septi-DmsDev&fontAlign=50&desc=Septian%20Dimas%20Prasetya&descSize=13&descAlignY=90&descAlign=50" alt="footer" />
