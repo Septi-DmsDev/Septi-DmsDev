@@ -1,6 +1,9 @@
 <h1 align="center">Septian Dimas Prasetya</h1>
 <p align="center"><strong>IT Lead | Systems Builder</strong></p>
-<p align="center">Building internal systems, business operations platforms, and e-commerce/logistics software.</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&center=true&vCenter=true&width=700&lines=Building+internal+systems+for+real+business+operations;Designing+workflow-driven+platforms+with+hands-on+execution;Leading+teams+while+staying+close+to+the+code" alt="Typing animation" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Septi-DmsDev">GitHub</a> ·
@@ -24,6 +27,14 @@ My role combines technical leadership with hands-on delivery: leading teams, sha
 - E-commerce workflows
 - Logistics tooling
 - Workflow-driven platforms
+
+---
+
+## Core Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,supabase,tailwind,astro" alt="Core stack icons" />
+</p>
 
 ---
 
@@ -68,12 +79,6 @@ I keep this section intentionally high level to respect private project boundari
 
 ---
 
-## Core Stack
-
-`TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `Supabase` `Prisma` `Drizzle ORM` `Tailwind CSS` `Astro`
-
----
-
 ## Current Direction
 
 - Building systems that improve operational clarity and execution quality
@@ -81,3 +86,11 @@ I keep this section intentionally high level to respect private project boundari
 - Raising product quality without losing maintainability
 - Staying hands-on while leading technical direction and delivery
 
+---
+
+## Contact
+
+- Website: [septidev.web.id](https://septidev.web.id/)
+- GitHub: [github.com/Septi-DmsDev](https://github.com/Septi-DmsDev)
+
+Open to collaboration on internal systems, operations platforms, and business-critical software.
