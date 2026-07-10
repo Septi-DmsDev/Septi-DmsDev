@@ -30,10 +30,16 @@ My role combines technical leadership with hands-on delivery: leading teams, sha
 
 ---
 
-## Core Stack
+## Technology Foundation
+
+<p><strong>Core technologies I rely on across product delivery, operations tooling, and system design.</strong></p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,supabase,tailwind,astro" alt="Core stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,supabase,tailwind,astro" alt="Core technology stack" />
+</p>
+
+<p>
+  <code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Tailwind CSS</code> <code>Astro</code>
 </p>
 
 ---
@@ -43,22 +49,22 @@ My role combines technical leadership with hands-on delivery: leading teams, sha
 ### [HRIS-Internal](https://github.com/Septi-DmsDev/HRIS-Internal)
 Internal HRIS platform covering employee data, attendance, performance workflows, overtime, approvals, and payroll-related processes.
 
-**Tech:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Drizzle ORM`
+**Technology:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Drizzle ORM`
 
 ### [Ticketing-IT-Teknos](https://github.com/Septi-DmsDev/Ticketing-IT-Teknos)
 IT support and request platform with public tracking and protected admin workflows.
 
-**Tech:** `Astro` `TypeScript` `Supabase` `Tailwind CSS`
+**Technology:** `Astro` `TypeScript` `Supabase` `Tailwind CSS`
 
 ### [Scanner-Router](https://github.com/Septi-DmsDev/Scanner-Router)
 Operational scanner routing application with authentication, dashboard pages, API routes, and logging workflows.
 
-**Tech:** `Next.js` `TypeScript` `SQLite`
+**Technology:** `Next.js` `TypeScript` `SQLite`
 
 ### [WPI-INTERNASIONAL](https://github.com/Septi-DmsDev/WPI-INTERNASIONAL)
 Company profile website for a packaging and offset manufacturing business, built around process clarity, capabilities, and presentation.
 
-**Tech:** `Next.js` `TypeScript` `GSAP` `Framer Motion` `React Three Fiber`
+**Technology:** `Next.js` `TypeScript` `GSAP` `Framer Motion` `React Three Fiber`
 
 ---
 
@@ -79,6 +85,15 @@ I keep this section intentionally high level to respect private project boundari
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Septi-DmsDev&show_icons=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Septi-DmsDev&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+</p>
+
+---
+
 ## Current Direction
 
 - Building systems that improve operational clarity and execution quality
@@ -94,3 +109,5 @@ I keep this section intentionally high level to respect private project boundari
 - GitHub: [github.com/Septi-DmsDev](https://github.com/Septi-DmsDev)
 
 Open to collaboration on internal systems, operations platforms, and business-critical software.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=120&section=footer&fontColor=ffffff&fontSize=15&fontAlignY=75&desc=Septian%20Dimas%20Prasetya&descSize=13&descAlignY=90&descAlign=50" alt="footer" />
